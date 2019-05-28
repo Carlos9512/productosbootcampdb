@@ -1,0 +1,29 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "arroz con carne papa",
+        "precio": 3000
+      },
+      {
+        "id": 2,
+        "nombre": "azucar",
+        "precio": 2000
+      },
+      {
+        "nombre": "chinin",
+        "precio": "800",
+        "id": 3
+      },
+      {
+        "nombre": "chinin",
+        "precio": "8999",
+        "id": 4
+      },
+      {
+        "nombre": "123",
+        "precio": "123",
+        "id": 5
+      }
+    ]
+  }
